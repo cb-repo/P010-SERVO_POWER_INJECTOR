@@ -1,8 +1,10 @@
-# SERVO POWER INJECTOR v1.0
+# SERVO POWER INJECTOR / BEC v1.0
+
 
 <img src="assets/SERVO_POWER_INJECTOR_REAR.png" width="400">  <img src="assets/SERVO_POWER_INJECTOR_FRONT.png" width="400"> 
 
 SERVO POWER INJECTOR is a light-weight high-current power supply that splices 5 V regulated power with the radio signal into the standard pinout used by most hobby servo's. Originally this product was designed for combat robotics, but it's suitable for any application that require servos to be driven from an auxilary power source.
+This product can also be used as a standard Micro BEC by not connecting the signal I/O.
 
 This is a [New Zealand](https://www.google.co.nz/maps/place/Christchurch+New+Zealand) based product by [cb-technology](https://www.cb-technology.co.nz/), Connor Benton.
 
