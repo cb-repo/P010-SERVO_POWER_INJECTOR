@@ -1,6 +1,6 @@
 # SERVO POWER INJECTOR (SPI) / BATTERY ELIMINATOR CIRCUIT (BEC) v1.0
 
-<img src="assets/SERVO_POWER_INJECTOR_rear.png" width="400">  <img src="assets/SERVO_POWER_INJECTOR_front.png" width="400"> 
+<img src="assets/SERVO_POWER_INJECTOR_REAR.png" width="400">  <img src="assets/SERVO_POWER_INJECTOR_FRONT.png" width="400"> 
 
 SERVO POWER INJECTOR (SPI) is a twist on the standard Battery Eliminator Circuit (BEC), providing the expected light-weight high-current power supply functionality while adding the option to splice a control signal directly into a standard servo connector.
 
