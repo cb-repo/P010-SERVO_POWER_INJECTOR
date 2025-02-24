@@ -48,4 +48,4 @@ By leaving this unsoldered (default from factory) the SERVO POWER INJECTOR will 
 
 By bridging these pads, using a solderign iron, the SERVO POWER INJECOTR will output **9V**.
 
-<img src="assets/Voltage_Selector_9v.png" width="400"> 
+<img src="assets/Voltage_Selector_9V.png" width="400"> 
