@@ -32,14 +32,6 @@ This is a [New Zealand](https://www.google.co.nz/maps/place/Christchurch+New+Zea
 - **Connector - Input:** Solder Pads
 - **Connector - Output:** Solder Pads or 3-pin Pin Header (Standard Servo)
 
-## OUTPUT VOLTAGE SELECTION
-
-### Voltage: 5V
-<img src="assets/Voltage_Selector_5V.png" width="400"> 
-
-### Voltage: 9v
-<img src="assets/Voltage_Selector_9V.png" width="400"> 
-
 ## CONNECTION DIAGRAM
 
 ### Mode: Standard BEC
@@ -47,3 +39,13 @@ This is a [New Zealand](https://www.google.co.nz/maps/place/Christchurch+New+Zea
 
 ### Mode: Servo Power Injector
 <img src="assets/Connection_Diagram_SPI.png" width="400"> 
+
+## OUTPUT VOLTAGE SELECTION
+
+On the underside of the board there are two adjacent cemicircular pads beside the label *9V(5Vdef)* which control the output voltage.
+
+By leaving this unsoldered (default from factory) the SERVO POWER INJECTOR will output **5V**. 
+
+By bridging these pads, using a solderign iron, the SERVO POWER INJECOTR will output **9V**.
+
+<img src="assets/Voltage_Selector_9v.png" width="400"> 
