@@ -1,4 +1,4 @@
-# SERVO POWER INJECTOR (SPI) / BATTERY ELIMINATOR CIRCUIT (BEC) v1.0
+# SERVO POWER INJECTOR (SPI) / BATTERY ELIMINATOR CIRCUIT (BEC) v2.0
 
 <img src="assets/SERVO_POWER_INJECTOR_REAR.png" width="400">  <img src="assets/SERVO_POWER_INJECTOR_FRONT.png" width="400"> 
 
@@ -27,7 +27,7 @@ This is a [New Zealand](https://www.google.co.nz/maps/place/Christchurch+New+Zea
 - **Input Voltage - Rated:** 6-33.6 V (2-8S LiPo)
 - **Input Voltage - Max:** 36 V
 - **Output Voltage:** 5V *default* (9V *selectable*)
-- **Current - Rated:** 4 A
+- **Current - Rated:** 3.5 A
 - **Current - Max:** 5 A
 - **Connector - Input:** Solder Pads
 - **Connector - Output:** Solder Pads or 3-pin Pin Header (Standard Servo)
@@ -44,8 +44,40 @@ This is a [New Zealand](https://www.google.co.nz/maps/place/Christchurch+New+Zea
 
 On the underside of the board there are two adjacent cemicircular pads beside the label *9V(5Vdef)* which control the output voltage.
 
-By leaving this unsoldered (default from factory) the SERVO POWER INJECTOR will output **5V**. 
+<img src="assets/Voltage_Selector.png" width="400"> 
 
-By bridging these pads, using a solderign iron, the SERVO POWER INJECOTR will output **9V**.
+### 5V
 
-<img src="assets/Voltage_Selector_9V.png" width="400"> 
+Leave pads unsoldered (default from factory)
+
+<img src="assets/Voltage_Selector_5V.png" width="200"> 
+
+### 9V
+
+Use a soldering iron to bridge pads with solder
+
+<img src="assets/Voltage_Selector_9V.png" width="200"> 
+
+## SERVO CONNECTOR ORIENTATION
+
+When soldering the 3-pin Pin Header for use with a servo ther are 4 orientations that work with the privided right angle header
+
+### Connector Orientation 1
+
+<img src="assets/Connector_Orientation_P1-top.png" width="200"> <img src="assets/Connector_Orientation_P1-bottom.png" width="200"> 
+
+### Connector Orientation 2
+
+<img src="assets/Connector_Orientation_P2-top.png" width="200"> <img src="assets/Connector_Orientation_P2-bottom.png" width="200"> 
+
+### Connector Orientation 3
+
+<img src="assets/Connector_Orientation_P3-top.png" width="200"> <img src="assets/Connector_Orientation_P3-bottom.png" width="200"> 
+
+### Connector Orientation 4
+
+<img src="assets/Connector_Orientation_P4-top.png" width="200"> <img src="assets/Connector_Orientation_P4-bottom.png" width="200"> 
+
+## DISCLIAMER
+
+This product, and all other cb-technology products, are intended for use in hobby projects, and for educational and experimental uses. These devices are not suitable for any application where human life or health or significant property value depend on their proper operation. cb-technology ltd are not responsible for any loss or damage incurred by the operation or failure of this product or any others. The specifications listed are accurate to the best of our knowledge but are not guaranteed in any way. The buyer assumes all responsibility for proper use, testing, and verification of this unit in any application. cb-technology ltd liability is limited to replacement of defective DOA units. By installing and using this unit you are agreeing to these terms. If you do not agree you may return any unused units for a refund.
