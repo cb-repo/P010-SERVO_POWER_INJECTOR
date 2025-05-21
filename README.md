@@ -28,8 +28,8 @@ This is a [New Zealand](https://www.google.co.nz/maps/place/Christchurch+New+Zea
 - **Voltage Output:** 5V *default* (9V *selectable*)
 - **Current - Rated:** 3.5 A
 - **Current - Max:** 5 A
-- **Connector - Input:** Solder Pads
-- **Connector - Output:** Solder Pads or 3-pin Pin Header (Standard Servo Connector)
+- **Connector Input:** Solder Pads
+- **Connector Output:** Solder Pads or 3-pin Pin Header (Standard Servo Connector)
 
 ## CONNECTION DIAGRAM
 
