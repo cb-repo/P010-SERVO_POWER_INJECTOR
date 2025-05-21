@@ -1,4 +1,4 @@
-# SERVO POWER INJECTOR (SPI) / BATTERY ELIMINATOR CIRCUIT (BEC) v2.0
+# SERVO POWER INJECTOR (SPI) / BATTERY ELIMINATOR CIRCUIT (BEC) - v2.0
 
 <img src="assets/SERVO_POWER_INJECTOR_REAR.png" width="400">  <img src="assets/SERVO_POWER_INJECTOR_FRONT.png" width="400"> 
 
@@ -24,13 +24,12 @@ This is a [New Zealand](https://www.google.co.nz/maps/place/Christchurch+New+Zea
 ## SPECIFICATIONS
 - **Dimensions:** 10x16x4 mm
 - **Weight:** 3g
-- **Input Voltage - Rated:** 6-33.6 V (2-8S LiPo)
-- **Input Voltage - Max:** 36 V
-- **Output Voltage:** 5V *default* (9V *selectable*)
+- **Voltage Input:** 6-33.6 V (2-8S LiPo)
+- **Voltage Output:** 5V *default* (9V *selectable*)
 - **Current - Rated:** 3.5 A
 - **Current - Max:** 5 A
 - **Connector - Input:** Solder Pads
-- **Connector - Output:** Solder Pads or 3-pin Pin Header (Standard Servo)
+- **Connector - Output:** Solder Pads or 3-pin Pin Header (Standard Servo Connector)
 
 ## CONNECTION DIAGRAM
 
